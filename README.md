@@ -1,4 +1,4 @@
-# Quantum Bogo Sort#
+# Quantum Bogo Sort #
 
 The Bogo sort is a joke algorithm that sorts a list by randomising the list until it is sorted! As you can imagine this takes a <b> VERY </b> Long Time.
 
